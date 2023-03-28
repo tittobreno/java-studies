@@ -14,6 +14,8 @@ public class Ex01 {
         System.out.println("Digite o segundo número: ");
         b = reader.nextInt();
 
+        reader.close();
+
         System.out.println("A soma é: " + (a + b));
     };
 };
