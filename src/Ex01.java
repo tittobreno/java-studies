@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
+// 1. Faça um algoritmo que receba dois números e exiba o resultado da sua soma;
+
 public class Ex01 {
-    // 1. Faça um algoritmo que receba dois números e exiba o resultado da sua soma;
+
     public static void main(String[] args) {
         int a;
         int b;
